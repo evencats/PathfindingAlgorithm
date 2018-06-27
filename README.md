@@ -1,4 +1,8 @@
 # PathfindingAlgorithm
+Based on Java.<br>
+By adding a MxN matrix to delimit the initial state.<br>
+If the programme reach 1, then it end the loop and try again.<br>
+It'll mark down the path it went through.<br>
 "5" is used for marking the path.<br>
 * The default settings of the maze.<br>  
 >{0 0 1 0 0 0 1 0}<br>
